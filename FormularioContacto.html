@@ -6,17 +6,31 @@
             body{
                 background-color: rgb(20, 173, 127);
             }
+            form{
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-size: 20px;
+            }
+            .nombres, .mail{
+                width:350px;
+            }
+            .comments{
+                height: 350px;
+                width: 350px;
+            }
         </style>
     </head>
     <body>
         <form>
-            <label> Nombre y Apellido: <br>
-            <input type="text" name="nombre completo"></label><br>
-            <label>Email: <br>
-            <input type="text" name="Email"></label><br>
-            <label>Comentarios: <br>
-            <textarea type="text" name="comentarios"></textarea></label><br>
-            <input type="submit">
+            <fieldset>
+                <legend>Informacion Personal:</legend>
+                <label> Nombre y Apellido: <br>
+                <input class="nombres" type="text" name="nombre completo"></label><br>
+                <label>Email: <br>
+                <input class="mail" type="text" name="Email"></label><br>
+                <label>Comentarios: <br>
+                <textarea class="comments" type="text" name="comentarios"></textarea></label><br>
+                <input type="submit">
+            </fieldset>
         </form>
     </body>
 </html>
