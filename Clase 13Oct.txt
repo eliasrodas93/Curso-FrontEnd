@@ -1,0 +1,4 @@
+Para la clase del 17/10:
+- !Leer typescript (links de John Papa)
+- !Leer el "QuickStart" de Angular
+- Seguir con ejercicios de JavaScript
