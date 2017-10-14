@@ -5,6 +5,8 @@ Documentación:
 - TypeScript: https://www.typescriptlang.org/docs
 - Angular: https://angular.io/docs
 
+- Class en ES6: https://googlechrome.github.io/samples/classes-es6/
+
 Links de Interes:
 - https://fonts.google.com
 - https://color.adobe.com
