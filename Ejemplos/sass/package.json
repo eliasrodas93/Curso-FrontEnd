@@ -1,0 +1,16 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compilar-sass": "node-sass archivo.scss archivo.css"
+  },
+  "dependencies": {
+    "node-sass": "~4.5.3",
+    "bootstrap": "^4.0.0-beta"
+  },
+  "author": "",
+  "license": "ISC"
+}

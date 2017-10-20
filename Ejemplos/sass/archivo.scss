@@ -1,0 +1,28 @@
+@import 'variables';
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+
+header {
+    font-family: $font;
+    font-size: $fontSize;
+
+    ul {
+        list-style: none;
+
+        .item {
+            color: $blue;
+            padding: 10px;
+
+            &:first-child {
+                padding-left: 0;
+            }
+
+            &.__hola {
+                padding-left: 100px;
+            }
+            
+            > span {
+                font-family: 'Lato';
+            }
+        }
+    }
+}

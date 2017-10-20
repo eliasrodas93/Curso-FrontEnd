@@ -1,0 +1,12 @@
+Para mañana (11/10):
+1. Terminar ejercicio interactivo: https://flukeout.github.io/
+2. Leer sobre Bootstrap:
+    - Introducción:
+        https://getbootstrap.com/docs/4.0/getting-started/introduction/
+    - Sistema de Grillas:
+        https://getbootstrap.com/docs/4.0/layout/grid/
+    - Content en general:
+        https://getbootstrap.com/docs/4.0/content/reboot/
+    - Componentes en general:
+        https://getbootstrap.com/docs/4.0/components/alerts/
+
